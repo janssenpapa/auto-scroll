@@ -17,7 +17,7 @@ Auto Scroll adalah aplikasi Android yang men-scroll layar secara otomatis dengan
 ## 📥 Cara Install
 
 1. Download APK terbaru di bawah ini, atau dari halaman [Releases](../../releases).
-   - **v1.5 (terbaru):** [AutoScroll-Ink-v1.5-debug.apk](https://github.com/janssenpapa/auto-scroll/raw/main/releases/AutoScroll-Ink-v1.5-debug.apk)
+   - **v1.5.1 (terbaru):** [AutoScroll-Ink-v1.5.1-debug.apk](https://github.com/janssenpapa/auto-scroll/raw/main/releases/AutoScroll-Ink-v1.5.1-debug.apk)
 2. Buka file APK-nya, izinkan **"Install unknown apps"** kalau diminta.
 3. Buka aplikasi **Auto Scroll**.
 4. Tekan **"Buka Pengaturan Aksesibilitas"**, lalu aktifkan layanan **Auto Scroll**.
